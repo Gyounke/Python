@@ -1,0 +1,5 @@
+print("hellow world")
+print("   /|")
+print("  / |")
+print(" /  |")
+print("/___|")
